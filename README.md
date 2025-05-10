@@ -2,7 +2,8 @@
 
 ## ~~TODO~~ DONE
 ## Apresentado
-
+- trabalho apresentado na disciplina de Front-End - PUCPR em maio/2024
+  
 ### Página Produtos
 
 - [x] Gerar as imagens
